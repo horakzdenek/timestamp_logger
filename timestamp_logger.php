@@ -1,11 +1,12 @@
 <?php 
-///////////////////// SETTINGS ////////////////////Ú
+///////////////////// SETTINGS ////////////////////
 header('Content-Type: text/html; charset=utf-8');
 $password = '1234';
 $login = 'admin';
 $filename = "timestamp_logger.txt";
 $message = "";
 $main_file = 'logger.php';
+////////////////////////////////////////////////////
 
 
 
